@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08264766-5012-4912-b719-ea4b54d73dfc" name="Default Changelist" comment="" />
+    <list default="true" id="08264766-5012-4912-b719-ea4b54d73dfc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="490e8729-3862-46d4-938d-a105e37ac6eb" name="Revert &quot;ECommerce and Logistics Project 1st Version&quot;" comment="Revert &quot;ECommerce and Logistics Project 1st Version&quot;&#10;&#10;This reverts commit fbf7c593">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
@@ -70,8 +72,25 @@
       <option name="project" value="LOCAL" />
       <updated>1589540243896</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ECommerce and Logistics Project 1st Version">
+      <created>1589541023002</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589541023002</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ECommerce and Logistics Project 1st Version" />
@@ -82,10 +101,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="654" y="275" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1589540278855" />
-    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1589540924871">
+    <state x="395" y="0" key="CommitChangelistDialog2" timestamp="1589541021072">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589540924871" />
+    <state x="395" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1589541021072" />
     <state x="518" y="113" key="FileChooserDialogImpl" timestamp="1589457947583">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -94,10 +113,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589540777772" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1589540627161">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1589541032509">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1589540627161" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1589541032509" />
+    <state x="435" y="200" key="git4idea.merge.GitPullDialog" timestamp="1589541537159">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="435" y="200" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1589541537159" />
     <state x="598" y="273" key="git4idea.rebase.GitRebaseDialog" timestamp="1589540560850">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
